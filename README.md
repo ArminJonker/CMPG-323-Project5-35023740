@@ -5,4 +5,8 @@
    
 ## In this Project:
   - We needed to create graphs to visualize the data we receive from excel.
-  - We also needed to apply filters so that you as user can interact with the program.
+  - Add filters to the data.
+
+## Tools used in this project:
+  - Power Bi: https://powerbi.microsoft.com/en-cy/
+
