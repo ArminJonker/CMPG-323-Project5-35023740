@@ -11,4 +11,5 @@
   - Power Bi: https://powerbi.microsoft.com/en-cy/
 
 ## Work Done:
-  - Have a look: file:///C:/Users/Armin%20Jonker/AppData/Local/Temp/Power%20BI%20Desktop/print-job-75bdc273-81a0-4092-811a-5774965beb57/Connected%20Office%20-%20Device%20Monitoring.pdf
+  - Have a look: [Connected Office - Device Monitoring.pdf](https://github.com/ArminJonker/CMPG-323-Project5-35023740/files/9981703/Connected.Office.-.Device.Monitoring.pdf)
+
